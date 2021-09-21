@@ -25,3 +25,14 @@ dataset.
 
 ## Model Architecture :- 
 ![image](https://user-images.githubusercontent.com/76057253/134125956-1765eefb-c6c1-436a-89a9-5972d3847805.png)
+
+```
+@misc{girshick2014rich,
+      title={Rich feature hierarchies for accurate object detection and semantic segmentation}, 
+      author={Ross Girshick and Jeff Donahue and Trevor Darrell and Jitendra Malik},
+      year={2014},
+      eprint={1311.2524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
