@@ -22,3 +22,14 @@ accuracy on PASCAL VOC 2007, 2012, and MS COCO datasets with only 300 proposals 
 
 ## Results :- 
 ![image](https://user-images.githubusercontent.com/76057253/134172675-e55c3e72-e1fb-4a64-a81a-0ac06384f22b.png)
+
+```
+@misc{ren2016faster,
+      title={Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks}, 
+      author={Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
+      year={2016},
+      eprint={1506.01497},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
