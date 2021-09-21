@@ -13,7 +13,7 @@ at test-time, and achieves a higher mAP on PASCAL VOC
 faster, tests 10× faster, and is more accurate.
 
 ## Architecture :- 
-![image](https://user-images.githubusercontent.com/76057253/134127414-0041454e-bb4e-48bc-b29f-3067f77be722.png)
+![image](https://user-images.githubusercontent.com/76057253/134172183-d6b81bc5-e6e1-420c-9cbf-bed5c9f0d8f9.png)
 
 ![image](https://user-images.githubusercontent.com/76057253/134127469-819e1076-667e-42ed-ba1a-bbd2d08cccab.png)
 
